@@ -95,7 +95,7 @@ def get_task(task_id: int):
 @app.put("/tasks/{task_id}", response_model=Task)
 def complete_task(task_id: int):
     """
-        Ruta para marcar una tarea como completada por su ID. Busca la tarea en la lista de tareas y cambia su estado a "completada" si se encuentra. Si no se encuentra, lanza una excepción HTTP 404.
+    Ruta para marcar una tarea como completada por su ID. Busca la tarea en la lista de tareas y cambia su estado a "completada" si se encuentra. Si no se encuentra, lanza una excepción HTTP 404.
 
     Args:
         task_id (int): ID de la tarea a marcar como completada. 
