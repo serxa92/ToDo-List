@@ -4,8 +4,15 @@ API REST desarrollada con **FastAPI** para la gestión de tareas.
 Las tareas se almacenan en un archivo local en formato JSON, sin utilizar base de datos.
 
 Este proyecto implementa operaciones CRUD completas y sigue una estructura modular separando modelos, lógica de almacenamiento y endpoints.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
+</p>
 
 ---
+
 
 ##  Funcionalidades
 
@@ -136,5 +143,6 @@ Este proyecto está bajo la licencia MIT.
 ##  Autor
 
 Desarrollado como proyecto práctico de aprendizaje de FastAPI por **[Sergio Agulla](https://www.linkedin.com/in/sergio-agulla/)**.
+
 
 
